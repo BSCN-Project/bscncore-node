@@ -13,7 +13,7 @@ A BSCN full node for building applications and services with Node.js. A node is 
     ```  
 2. Install mongo https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/  
 
-3. Install bscn-bitcore https://github.com/bscnproject/bscn - with ZMQ ! 
+3. Install bscn-bitcore https://github.com/BSCN-Project/bscn - with ZMQ ! 
 
     ```bash
     # with ZMQ
@@ -22,7 +22,7 @@ A BSCN full node for building applications and services with Node.js. A node is 
 4. Install bscncore-node  
 
     ```bash
-    npm i https://github.com/bscnproject/bscncore-node.git#master
+    npm i https://github.com/BSCN-Project/bscncore-node.git#master
 
     $(npm bin)/bscncore-node create mynode
 
@@ -79,5 +79,5 @@ A BSCN full node for building applications and services with Node.js. A node is 
 
 There are several add-on services available to extend the functionality of Bscncore:
 
-- [BSCN Insight API](https://github.com/bscnproject/insight-api)
-- [BSCN Explorer](https://github.com/bscnproject/bscn-explorer)
+- [BSCN Insight API](https://github.com/BSCN-Project/insight-api)
+- [BSCN Explorer](https://github.com/BSCN-Project/bscn-explorer)

@@ -129,7 +129,7 @@ Edit `bscncore-node.json` with something similar to:
 }
 ```
 
-**Note**: To install services [bscn-insight-api](https://github.com/bscnproject/insight-api) and [bscn-explorer](https://github.com/bscnproject/bscn-explorer) you'll need to clone the repositories locally.
+**Note**: To install services [bscn-insight-api](https://github.com/BSCN-Project/insight-api) and [bscn-explorer](https://github.com/BSCN-Project/bscn-explorer) you'll need to clone the repositories locally.
 
 Setup symlinks for all of the services and dependencies:
 

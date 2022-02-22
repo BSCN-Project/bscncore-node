@@ -2381,9 +2381,9 @@ qs@~6.3.0:
   resolved "https://registry.yarnpkg.com/qs/-/qs-6.3.2.tgz#e75bd5f6e268122a2a0e0bda630b2550c166502c"
   integrity sha1-51vV9uJoEioqDgvaYwslUMFmUCw=
 
-"bscncore-lib@https://github.com/bscnproject/bscncore-lib.git#master":
+"bscncore-lib@https://github.com/BSCN-Project/bscncore-lib.git#master":
   version "0.0.1"
-  resolved "https://github.com/bscnproject/bscncore-lib.git#140d5b38571ca6e247dec5add3d80be4123c9233"
+  resolved "https://github.com/BSCN-Project/bscncore-lib.git#140d5b38571ca6e247dec5add3d80be4123c9233"
   dependencies:
     bn.js "=2.0.4"
     bs58 "=2.0.0"
@@ -2392,9 +2392,9 @@ qs@~6.3.0:
     inherits "=2.0.1"
     lodash "=3.10.1"
 
-"bscnd-rpc@https://github.com/bscnproject/bscnd-rpc.git#master":
+"bscnd-rpc@https://github.com/BSCN-Project/bscnd-rpc.git#master":
   version "0.0.4"
-  resolved "https://github.com/bscnproject/bscnd-rpc.git#1db2cc426b9e0182431a2574a84a3b133e363bca"
+  resolved "https://github.com/BSCN-Project/bscnd-rpc.git#1db2cc426b9e0182431a2574a84a3b133e363bca"
 
 range-parser@~1.2.1:
   version "1.2.1"
